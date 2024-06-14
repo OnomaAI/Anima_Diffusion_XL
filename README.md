@@ -8,4 +8,5 @@ Note: insert basic statistics of Anima model in terms of parameters etc
 
 ![image](https://github.com/OnomaAI/Anima_Diffusion_XL/assets/13410808/7f31d692-bcff-4797-abf8-a995b09a9e23)
 
-Note: add the link of the Anima home page
+
+[Anima Homepage](https://tootoon-frontend-dev.onomaai.kr/anima)
